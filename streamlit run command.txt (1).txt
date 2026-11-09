@@ -1,0 +1,13 @@
+streamlit run "C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\Diseaseprediction.py"
+
+streamlit run "C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\multipledisease.py"
+
+streamlit run "C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\diseaseapp.py"
+
+dash run "C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\diseaseapp.py"
+
+streamlit run "C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\Multiple disease predict.py"
+streamlit run "C:\Users\bhogy\OneDrive\Desktop\Dogbreed\streemlitcode.py
+
+r"C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\shape_predictor_68_face_landmarks.dat"
+r"C:\Users\bhogy\OneDrive\Desktop\Multiple Disease Prediction System\alarm.wav"
